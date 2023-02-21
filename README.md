@@ -10,8 +10,10 @@ SO THAT I can understand the search pattern the regex defines
 
 GIVEN a regex tutorial </br>
 WHEN I open the tutorial </br>
-THEN I see a descriptive title and introductory paragraph explaining the purpose of the tutorial, a summary describing the regex featured in the tutorial, </br> 
-a table of contents linking to different sections that break down each component of the regex and explain what it does, </br>
+THEN I see a descriptive title and introductory paragraph explaining the purpose of the tutorial, </br> 
+a summary describing the regex featured in the tutorial, </br> 
+a table of contents linking to different sections that break down each </br> 
+component of the regex and explain what it does, </br>
 and a section about the author with a link to the author’s GitHub profile </br>
 WHEN I click on the links in the table of contents </br>
 THEN I am taken to the corresponding sections of the tutorial </br>
